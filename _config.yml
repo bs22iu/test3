@@ -1,4 +1,4 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: bs22iu/test3
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -37,15 +37,6 @@ feedback_subject_line: Jekyll documentation theme
 
 feedback_email: tomjoht@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
-
-# feedback_disable: true
-# if you uncomment the previous line, the Feedback link gets removed
-
-# feedback_text: "Need help?"
-# if you uncomment the previous line, it changes the Feedback text
-
-# feedback_link: "http://helpy.io/"
-# if you uncomment the previous line, it changes where the feedback link points to
 
 highlighter: rouge
 # library used for syntax highlighting
